@@ -1,5 +1,4 @@
 var Doomsday = require("./lib/doomsday.js");
-var Days = require("./lib/days");
 var parseArgs = require("minimist");
 
 var args = parseArgs(process.argv.slice(2));
