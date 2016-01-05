@@ -1,0 +1,24 @@
+{
+  "name": "doomsday",
+  "version": "1.0.0",
+  "description": "Any Day for Any Date trainer",
+  "main": "doomsday.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bezhermoso/doomsday.js.git"
+  },
+  "author": "Bez Hermoso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bezhermoso/doomsday.js/issues"
+  },
+  "homepage": "https://github.com/bezhermoso/doomsday.js#readme",
+  "dependencies": {
+    "eslint": "^1.10.3",
+    "minimist": "^1.2.0",
+    "moment": "^2.10.6"
+  }
+}
