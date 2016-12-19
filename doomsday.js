@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var Doomsday = require("./lib/doomsday.js");
 var parseArgs = require("minimist");
 
